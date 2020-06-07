@@ -1,0 +1,5 @@
+name: DistrictEnchants
+version: ${project.version}
+main: com.github.frcsty.districtenchants.DistrictEnchants
+author: Frcsty
+depend: ["TokenManager"]
